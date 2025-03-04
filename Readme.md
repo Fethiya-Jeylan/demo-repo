@@ -5,4 +5,4 @@ hello everyone6
 watch this
 
 ## local development
-1. open index.html in your browser.
+1. open index.html in your browser and save
